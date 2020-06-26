@@ -1,0 +1,574 @@
+Cough: False
+Fever: True
+Int.: False
+Corona Alert: 2020-04-09 19:27:40.159428
+Cough: False
+Fever: True
+Int.: True
+Corona Alert: 2020-04-09 22:23:42.842748
+Cough: True
+Fever: True
+Int.: False
+Corona Alert: 2020-04-09 22:35:04.189730
+Cough: True
+Fever: False
+Int.: False
+Corona Alert: 2020-04-10 00:16:10.090119
+Cough: False
+Fever: True
+Int.: True
+Corona Alert: 2020-04-10 00:27:42.705868
+Cough: False
+Fever: False
+Int.: False
+Location: صدر
+Corona Alert: 2020-04-10 00:30:21.522751
+Cough: False
+Fever: False
+Int.: False
+Location: پنڈی میں حادثہ ہوا ہے
+Corona Alert: 2020-04-10 20:13:27.930452
+Cough: True
+Fever: True
+Int.: False
+Location: مینا
+Emergency Alert: 2020-04-10 21:47:12.480904
+Etype: fire
+people: ایک
+Location: کشمیر ہاءی وے
+Emergency Alert: 2020-04-12 21:43:51.240671
+Etype: medical
+people: ایک
+Location: راولپنڈی کرکٹ سٹیدیم
+Emergency Alert: 2020-04-15 16:30:36.431509
+Etype: medical
+people: ایک
+Location: صدر
+Emergency Alert: 2020-04-15 18:07:30.360025
+Etype: medical
+people: هے ایک
+Location: صدر
+Emergency Alert: 2020-04-20 10:29:56.636678
+Etype: medical
+people: دو
+Location: صدر
+Corona Alert: 2020-04-20 10:34:13.499103
+Cough: True
+Fever: True
+Int.: True
+Location: نیشنل هسٹری
+Emergency Alert: 2020-04-20 23:11:36.915159
+Etype: accident
+people: دو
+Location: صدر
+Corona Alert: 2020-04-20 23:47:31.842702
+Cough: False
+Fever: False
+Int.: True
+pain: False
+Location: نسٹ
+
+Corona Alert: 2020-04-21 00:26:08.578371
+Cough: True
+Fever: True
+Int.: True
+pain: True
+Location: saddar
+Corona Alert: 2020-04-21 01:18:31.895768
+Cough: False
+Fever: False
+Int.: True
+pain: True
+Location: saddar rawalpindi
+Emergency Alert: 2020-04-21 01:23:46.746667
+Etype: نهیں که ٹرین هوا هے
+people: دور
+Location: صدر میں اچھا هوا هے
+Emergency Alert: 2020-04-21 01:42:35.078761
+Etype: بیٹھے هیں
+people: دو
+Location: سو هے
+Emergency Alert: 2020-04-21 09:43:59.704604
+Etype: medical
+people: ایک
+Location: سر میں حادثه هوا هے
+Corona Alert: 2020-04-24 19:54:09.408634
+Cough: True
+Fever: True
+breath: True
+flu: True
+international: True
+daystwo: True
+province: punjab
+Corona Alert: 2020-04-24 20:00:01.511225
+Cough: True
+Fever: True
+breath: True
+flu: True
+international: True
+daystwo: True
+province: punjab
+Corona Alert: 2020-04-24 20:05:24.100451
+Cough: True
+Fever: True
+breath: True
+flu: True
+international: True
+daystwo: True
+province: punjab
+Corona Alert: 2020-04-24 20:10:43.967370
+Cough: True
+Fever: True
+breath: True
+flu: True
+international: True
+daystwo: True
+province: punjab
+Corona Alert: 2020-04-24 22:41:51.819051
+Cough: True
+Fever: True
+breath: True
+flu: False
+international: True
+daystwo: True
+province: punjab
+Corona Alert: 2020-04-24 23:08:30.328801
+Cough: True
+Fever: True
+breath: True
+flu: False
+international: False
+daystwo: True
+province: punjab
+Corona Alert: 2020-04-26 20:25:00.159239
+Cough: False
+Fever: False
+breath: False
+flu: False
+international: False
+daystwo: False
+province: punjab
+Corona Alert: 2020-05-05 20:09:30.707212
+Cough: True
+Fever: True
+breath: True
+flu: True
+international: True
+daystwo: True
+province: gilgit
+Corona Alert: 2020-05-05 20:18:53.857266
+Cough: True
+Fever: True
+breath: True
+flu: True
+international: True
+daystwo: True
+province: gilgit
+Corona Alert: 2020-05-06 00:49:01.188342
+Cough: True
+Fever: True
+breath: True
+flu: True
+international: True
+daystwo: True
+province: gilgit
+Corona Alert: 2020-05-06 23:30:54.744854
+Cough: True
+Fever: True
+breath: True
+flu: True
+international: True
+daystwo: True
+province: punjab
+Corona Alert: 2020-05-09 16:20:52.428948
+Cough: True
+Fever: False
+breath: False
+flu: True
+international: False
+daystwo: True
+province: punjab
+Corona Alert: 2020-05-09 16:21:27.673859
+Cough: True
+Fever: False
+breath: False
+flu: True
+international: False
+daystwo: True
+province: punjab
+Corona Alert: 2020-05-09 21:53:49.471630
+Cough: True
+Fever: True
+breath: False
+flu: False
+international: True
+daystwo: False
+province: punjab
+Corona Alert: 2020-05-09 21:54:02.650258
+Cough: True
+Fever: True
+breath: False
+flu: False
+international: True
+daystwo: False
+province: punjab
+Corona Alert: 2020-05-10 17:14:33.940615
+Cough: True
+Fever: False
+breath: True
+flu: True
+international: False
+daystwo: True
+province: islamabad
+Corona Alert: 2020-05-10 17:25:33.820284
+Cough: True
+Fever: False
+breath: True
+flu: True
+international: False
+daystwo: True
+province: islamabad
+Corona Alert: 2020-05-10 17:40:12.062365
+Cough: True
+Fever: False
+breath: True
+flu: True
+international: True
+daystwo: True
+province: islamabad
+Corona Alert: 2020-05-10 20:13:37.517595
+Cough: True
+Fever: True
+breath: False
+flu: True
+international: False
+daystwo: True
+province: islamabad
+Corona Alert: 2020-05-10 20:39:14.563796
+Cough: True
+Fever: True
+breath: False
+flu: True
+international: False
+daystwo: True
+province: kpk
+Emergency Alert: 2020-05-10 20:40:17.732399
+Etype: کوءی حادثه نهیں هوا
+people: تین
+Location: اپنے
+Corona Alert: 2020-05-21 23:52:13.866571
+Cough: True
+Fever: False
+breath: False
+flu: True
+international: False
+daystwo: True
+province: punjab
+Corona Alert: 2020-05-22 00:50:57.861737
+Cough: True
+Fever: False
+breath: True
+flu: False
+international: False
+daystwo: False
+province: punjab
+Corona Alert: 2020-05-22 09:10:55.443171
+Cough: True
+Fever: True
+breath: True
+flu: False
+international: False
+daystwo: False
+province: punjab
+Corona Alert: 2020-05-23 12:13:59.736150
+Cough: True
+Fever: True
+breath: True
+flu: False
+international: False
+daystwo: False
+province: punjab
+Corona Alert: 2020-05-23 12:20:16.553292
+Cough: True
+Fever: True
+breath: True
+flu: False
+international: False
+daystwo: False
+province: punjab
+Corona Alert: 2020-05-23 12:25:14.863199
+Cough: True
+Fever: True
+breath: True
+flu: False
+international: False
+daystwo: False
+province: punjab
+Corona Alert: 2020-05-23 12:32:06.810619
+Cough: True
+Fever: True
+breath: True
+flu: False
+international: False
+daystwo: False
+province: punjab
+Corona Alert: 2020-05-23 12:58:28.021764
+Cough: True
+Fever: True
+breath: True
+flu: False
+international: False
+daystwo: False
+province: punjab
+Corona Alert: 2020-05-23 13:02:35.202163
+Cough: True
+Fever: True
+breath: True
+flu: False
+international: False
+daystwo: True
+province: punjab
+Corona Alert: 2020-06-07 13:39:59.639839
+Cough: True
+Fever: True
+breath: True
+flu: True
+international: True
+daystwo: True
+province: punjab
+Corona Alert: 2020-06-07 14:38:07.342346
+Cough: True
+Fever: True
+breath: False
+flu: False
+international: True
+daystwo: True
+province: punjab
+Emergency Alert: 2020-06-07 14:42:06.254326
+Etype: سر
+people: پانچ آدمی
+Location: سر میں حادثه هوا هے
+Emergency Alert: 2020-06-07 14:44:08.709930
+Etype: directorate
+people: دو افراد
+Location: صدر
+Emergency Alert: 2020-06-07 15:14:02.005951
+Etype: medical
+people: چار آدمی
+Location: صدر
+Emergency Alert: 2020-06-07 15:50:41.938752
+Etype: accident
+people: دو افراد زخمی
+Location: کشمیر هاءی وے
+Emergency Alert: 2020-06-07 16:32:15.461995
+Etype: نهیں هے چوٹ آءی هے
+people: نهیں
+Location: صدر نے هے
+Emergency Alert: 2020-06-07 18:31:01.836882
+Etype: medical
+people: قاصر هیں ان دونوں
+Location: هیں اگر حادثه هوا هے
+Emergency Alert: 2020-06-07 18:31:24.938279
+Etype: medical
+people: قاصر هیں ان دونوں
+Location: هیں اگر حادثه هوا هے
+Emergency Alert: 2020-06-07 19:09:01.604237
+Etype: زیر هوا هے
+people: پانچ
+Location: saddar
+Emergency Alert: 2020-06-07 19:11:48.894983
+Etype: گاڑی هے سے هوا هے
+people: تین افراد متاثر
+Location: saddar
+Corona Alert: 2020-06-09 20:09:08.419520
+Cough: True
+Fever: False
+breath: True
+flu: False
+international: False
+daystwo: True
+province: gilgit
+Emergency Alert: 2020-06-09 20:32:40.095075
+Etype: fire
+people: چار
+Location: صدر
+Corona Alert: 2020-06-09 22:23:45.875934
+Cough: True
+Fever: True
+breath: True
+flu: True
+international: True
+daystwo: True
+province: balochistan
+Emergency Alert: 2020-06-09 22:26:11.100303
+Etype: medical
+people: ایک
+Location: صدر
+Emergency Alert: 2020-06-10 13:13:56.983668
+Etype: accident
+people: دو
+Location: هے میرا اگر i آٹھ دو
+Emergency Alert: 2020-06-10 13:19:46.622497
+Etype: فور
+people: دو
+Location: هے میرا گءے جی فور ٹو
+Emergency Alert: 2020-06-12 18:25:20.396389
+Etype: accident
+people: هیں دو
+Location: جب شهزاد
+Emergency Alert: 2020-06-12 18:31:06.305030
+Etype: accident
+people: دو
+Location: جب شهزاد
+Emergency Alert: 2020-06-12 18:33:18.582540
+Etype: accident
+people: دو
+Location: دو
+Emergency Alert: 2020-06-12 18:35:59.859568
+Etype: accident
+people: دو
+Location: کیا شهزاد
+Emergency Alert: 2020-06-12 18:41:55.977609
+Etype: accident
+people: دو
+Location: زد میں آتا هوں
+Corona Alert: 2020-06-12 19:39:48.350705
+Cough: False
+Fever: True
+breath: False
+flu: False
+international: False
+daystwo: True
+province: punjab
+Corona Alert: 2020-06-12 20:05:27.082063
+Cough: False
+Fever: True
+breath: True
+flu: True
+international: False
+daystwo: True
+province: punjab
+Emergency Alert: 2020-06-12 20:34:33.879540
+Etype: accident
+people: ['دو', 'متاثر']
+Location: دو
+Corona Alert: 2020-06-13 10:28:53.114775
+Cough: True
+Fever: True
+breath: True
+flu: False
+international: True
+daystwo: True
+province: punjab
+Corona Alert: 2020-06-13 12:56:18.350632
+Cough: True
+Fever: True
+breath: False
+flu: False
+international: False
+daystwo: False
+province: punjab
+Corona Alert: 2020-06-13 12:59:04.645164
+Cough: True
+Fever: True
+breath: False
+flu: False
+international: False
+daystwo: False
+province: punjab
+Corona Alert: 2020-06-13 13:18:01.458702
+Cough: True
+Fever: True
+breath: True
+flu: False
+international: False
+daystwo: False
+province: punjab
+Corona Alert: 2020-06-13 13:25:10.206803
+Cough: True
+Fever: True
+breath: True
+flu: True
+international: False
+daystwo: False
+province: punjab
+Corona Alert: 2020-06-13 13:31:51.254366
+Cough: True
+Fever: True
+breath: True
+flu: True
+international: False
+daystwo: True
+province: punjab
+Emergency Alert: 2020-06-15 17:45:18.121971
+Etype: accident
+people: دو
+Location: هے صدر
+Corona Alert: 2020-06-15 18:00:22.000773
+Cough: True
+Fever: True
+breath: True
+flu: True
+international: True
+daystwo: True
+province: punjab
+Emergency Alert: 2020-06-16 16:15:28.919479
+Etype: accident
+people: دو
+Location: صدر
+Corona Alert: 2020-06-16 16:18:34.213093
+Cough: True
+Fever: True
+breath: True
+flu: True
+international: False
+daystwo: True
+province: punjab
+Emergency Alert: 2020-06-16 22:32:21.950305
+Etype: medical
+people: ایک
+Location: صدر
+Corona Alert: 2020-06-16 22:36:45.819228
+Cough: True
+Fever: False
+breath: False
+flu: True
+international: False
+daystwo: True
+province: balochistan
+Emergency Alert: 2020-06-17 03:05:40.824011
+Etype: fire
+people: تین
+Location: چک شهزاد
+Emergency Alert: 2020-06-17 03:05:54.214062
+Etype: fire
+people: تین
+Location: چک شهزاد
+Corona Alert: 2020-06-17 03:10:01.310541
+Cough: True
+Fever: True
+breath: True
+flu: False
+international: False
+daystwo: True
+province: sindh
+Corona Alert: 2020-06-17 04:13:37.290034
+Cough: True
+Fever: True
+breath: True
+flu: False
+international: True
+daystwo: True
+province: gilgit
+Corona Alert: 2020-06-17 05:18:44.800250
+Cough: True
+Fever: True
+breath: True
+flu: False
+international: False
+daystwo: True
+province: punjab
+Emergency Alert: 2020-06-17 05:20:36.671123
+Etype: accident
+people: دو
+Location: صدر

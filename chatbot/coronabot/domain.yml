@@ -1,0 +1,122 @@
+intents:
+  - greet
+  - affirm
+  - deny
+  - goodbye
+  - thankyou
+  - inform
+  - chitchat
+  - emergency:
+      use_entities: []
+  - corona:
+      use_entities: []
+
+entities:
+  - cough
+  - fever
+  - international
+  - location
+  - etype
+  - people
+  - pain
+  - daystwo
+  - breath
+  - flu
+  - province
+
+slots:
+  province:
+    type: unfeaturized
+    auto_fill: false
+  cough:
+    type: unfeaturized
+    auto_fill: false
+  fever: 
+    type: unfeaturized
+    auto_fill: false
+  international: 
+    type: unfeaturized 
+    auto_fill: false
+  location: 
+    type: unfeaturized 
+    auto_fill: false
+  etype: 
+    type: unfeaturized
+    auto_fill: false
+  people:
+    type: unfeaturized
+    auto_fill: false
+  pain:
+    type: unfeaturized
+    auto_fill: false
+  breath:
+    type: unfeaturized
+    auto_fill: false
+  flu:
+    type: unfeaturized
+    auto_fill: false
+  daystwo:
+    type: unfeaturized
+    auto_fill: false
+
+responses:
+  utter_goodbye:
+    - text: "خداحافظ"
+  utter_thankyou:
+    - text: "شکریہ"
+  utter_ask_location:
+    - text: "آپ اس وقت کدھر ہیں؟"
+  utter_greet: 
+    - text: "وعلیکم اسلام"
+  utter_default:
+    - text: "معاف کیجیے۔ سمجھ نہیں آیا۔"
+  utter_ask_cough:
+    - text: "کیا آپ کو کھانسی بھی ہے"
+  utter_ask_fever: 
+    - text: "آپ کو بخار محسوس ہو رہا ہے؟" 
+  utter_ask_international:
+    - text: "آپ نے بیرون ملک سفر کیا ہے انقریب؟" 
+  utter_confirmation: 
+    - text: "ایمبولینس آرہی ہے"
+  utter_quarantine: 
+    - text: "آپ گھر میں ہی احتیاط کریں"
+  utter_ask_etype:
+    - text: "ہادثہ کی نوعیت کیا ہے"
+  utter_ask_people:
+    - text: "کتنے افراد متاثر ہیں" 
+  utter_ask_pain:
+    - text: "آپ کو جسم میں درد ہے"
+  utter_chitchat:
+    - text: "براے مہربانی  معلومات مکمل کیجے"
+  utter_ask_daystwo:
+    - text: "کیا ان الامات کو دن سے زیادہ کا ٹاءم ہوگیا ہے"
+  utter_ask_flu:
+    - text: "کیا آپ کو  نزلہ زکام بھی ہے"
+  utter_ask_breath:
+    - text: "ِکیا آپ کو سانس لینے میں دشواری ہوتی ہے"
+  utter_ask_province:
+    - text: "آپ کا صوبہ کیا ہے"
+  utter_focal_punjab:
+    - text: "ِآپ ہمارےپنجاب کے فوکل پرسن سے بات کر لیں جس کا نمبر ہے 03027168021"
+  utter_focal_gilgit:
+    - text: "ِآپ ہمارے گلگت بلتستان کے فوکل پرسن سے بات کر لیں جس کا نمبر ہے 03474847023"
+  utter_focal_sindh:
+    - text: "ِآپ ہمارےسندھ کے فوکل پرسن سے بات کر لیں جس کا نمبر ہے 030271680222"
+  utter_focal_balochistan:
+    - text: "ِآپ ہمارے بلوچستان کے فوکل پرسن سے بات کر لیں جس کا نمبر ہے 03457176723"
+  utter_focal_kpk:
+    - text: "ِآپ ہمارےسرحد کے فوکل پرسن سے بات کر لیں جس کا نمبر ہے 03227168023"
+  utter_focal_islamabad:
+    - text: "آپ ہمارے اسلام آباد کے فوکل پرسن سے رابتا کرلیں ان کا نمبر ہے 0302716801"
+  utter_hospital: 
+    - text: "اپ قریبی ہسپتال سے ٹیسٹ کرا لیں"
+  utter_wrong_province:
+    - text: "ان میں سے صوبہ چنیں.. پنجاب  ، بلوچستان، سرحد، گلگت بلتستان، سندھ ،اسلام آباد"
+
+forms:
+  - corona_form
+  - emergency_form
+
+session_config:
+  session_expiration_time: 15
+  carry_over_slots_to_new_session: true
